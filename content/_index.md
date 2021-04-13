@@ -7,11 +7,9 @@ sections:
     section_id: hero_section
     background_image: images/bazelcon-background.jpg
     background_image_opacity: 30
-    content: >
+    content: |
       # Build Meetup 2021
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Online, 21-22 of June
     actions: []
 ---
