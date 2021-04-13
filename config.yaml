@@ -9,7 +9,6 @@ params:
   bg_image_primary_opacity: 60
   bg_image_secondary: /images/leaf-light-grey.svg
   bg_image_product: /images/leaf.svg
-  snipcart_api_key: ''
   palette: green
   main_menu: []
 taxonomies:
