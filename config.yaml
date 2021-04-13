@@ -12,10 +12,7 @@ params:
   snipcart_api_key: ''
   footer_text: Copyright 2021 Planty Inc. All rights reserved.
   palette: green
-  main_menu:
-    - title: Store
-      url: /store
-      style: link
+  main_menu: []
 taxonomies:
   stub: stub
 disableKinds:
