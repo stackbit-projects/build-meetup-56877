@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Build Meetup 2021
 white_header: true
 sections:
   - type: hero_section
