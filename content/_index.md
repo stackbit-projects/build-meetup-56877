@@ -22,8 +22,7 @@ sections:
     title: Best sellers
     icon: true
     light_title: true
-    featured_products:
-      - content/products/plant7.md
+    featured_products: []
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
