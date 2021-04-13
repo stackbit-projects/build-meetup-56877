@@ -10,6 +10,6 @@ sections:
     content: |
       # Build Meetup 2021
 
-      Online, 21-22 of June
+      21-22 of June
     actions: []
 ---
