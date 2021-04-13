@@ -8,7 +8,7 @@ sections:
     background_image: images/bazelcon-background.jpg
     background_image_opacity: 65
     content: >
-      # ![](/images/nan_talk.jpg)Build Meetup 2021
+      # Build Meetup 2021
 
 
       Don't forget to add your Snipcart API key to the site's configuration to
