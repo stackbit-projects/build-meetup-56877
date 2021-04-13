@@ -19,9 +19,6 @@ params:
     - title: About
       url: /about
       style: link
-    - title: FAQ
-      url: /faq
-      style: link
 taxonomies:
   stub: stub
 disableKinds:
