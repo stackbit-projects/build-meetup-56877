@@ -16,9 +16,6 @@ params:
     - title: Store
       url: /store
       style: link
-    - title: About
-      url: /about
-      style: link
 taxonomies:
   stub: stub
 disableKinds:
