@@ -17,12 +17,6 @@ sections:
         url: /store
         arrow: true
         style: primary
-  - type: featured_products_section
-    section_id: best_sellers_section
-    title: Best sellers
-    icon: true
-    light_title: true
-    featured_products: []
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
