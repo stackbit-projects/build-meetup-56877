@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/bazelcon-background.jpg
+    background_image: images/header.jpg
     background_image_opacity: 30
     content: |
       # Build Meetup 2021
