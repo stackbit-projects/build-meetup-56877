@@ -19,9 +19,7 @@
                 {{ partial "header.html" $include_dict }}
         
                 {{ block "content" . }}{{ end }}
-        
-                {{ $include_dict = dict "page" . "Site" .Site }}
-            </div>
+                    </div>
         <script src="{{ "js/lib/modernizr.js" | relURL }}"></script>
         <script src="{{ "js/main.js" | relURL }}"></script>
         <script src="{{ "js/page_load.js" | relURL }}"></script>
