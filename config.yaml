@@ -3,7 +3,7 @@ baseURL: /
 params:
   favicon: images/favicon.png
   logo_dark: images/logo.svg
-  logo_light: images/bazelcon-background.jpg
+  logo_light: images/logo-white.svg
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg
   bg_image_primary_opacity: 60
